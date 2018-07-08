@@ -1,0 +1,24 @@
+[submodule "pack/tpope/start/vim-sensible"]
+	path = pack/tpope/start/vim-sensible
+	url = https://github.com/tpope/vim-sensible
+[submodule "pack/tpope/start/vim-projectionist"]
+	path = pack/tpope/start/vim-projectionist
+	url = https://github.com/tpope/vim-projectionist
+[submodule "pack/tpope/start/vim-scriptease"]
+	path = pack/tpope/start/vim-scriptease
+	url = https://github.com/tpope/vim-scriptease
+[submodule "pack/tpope/start/vim-fugitive"]
+	path = pack/tpope/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "pack/tpope/start/vim-eunuch"]
+	path = pack/tpope/start/vim-eunuch
+	url = https://github.com/tpope/vim-eunuch
+[submodule "pack/tpope/start/vim-surround"]
+	path = pack/tpope/start/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "pack/tpope/start/vim-jdaddy"]
+	path = pack/tpope/start/vim-jdaddy
+	url = https://github.com/tpope/vim-jdaddy
+[submodule "pack/editorconfig/start/editorconfig-vim"]
+	path = pack/editorconfig/start/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim
